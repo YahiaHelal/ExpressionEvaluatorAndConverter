@@ -3,6 +3,6 @@ module com.example.expressionevaluatorandconverter {
     requires javafx.fxml;
 
 
-    opens Apllication to javafx.fxml;
-    exports Apllication;
+    opens Application to javafx.fxml;
+    exports Application;
 }

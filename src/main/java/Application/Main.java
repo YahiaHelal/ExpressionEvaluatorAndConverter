@@ -1,4 +1,4 @@
-package Apllication;
+package Application;
 
 import View.ConvertersScene;
 import View.EvaluatorScene;

@@ -1,8 +1,7 @@
-package Apllication;
+package Application;
 
 import Model.Expression;
 import Model.ExpressionConverter;
-import Stack.LinkedStack;
 
 public class MainTest {
     public static void main(String[] args) {
