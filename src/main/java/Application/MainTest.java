@@ -11,5 +11,6 @@ public class MainTest {
         System.out.println(expressionConverter.infixToPostfix(expression));
         System.out.println(expression.isBalanced());
         System.out.println(expression);
+        System.out.println();
     }
 }
